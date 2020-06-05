@@ -1,0 +1,7 @@
+C:\Users\intruder\source\GO\GolangToSharp\CSharp\GolangInSharp\GolangInSharp\bin\Debug\GolangInSharp.exe.config
+C:\Users\intruder\source\GO\GolangToSharp\CSharp\GolangInSharp\GolangInSharp\bin\Debug\GolangInSharp.exe
+C:\Users\intruder\source\GO\GolangToSharp\CSharp\GolangInSharp\GolangInSharp\bin\Debug\GolangInSharp.pdb
+C:\Users\intruder\source\GO\GolangToSharp\CSharp\GolangInSharp\GolangInSharp\obj\Debug\GolangInSharp.csproj.CoreCompileInputs.cache
+C:\Users\intruder\source\GO\GolangToSharp\CSharp\GolangInSharp\GolangInSharp\obj\Debug\GolangInSharp.csproj.Fody.CopyLocal.cache
+C:\Users\intruder\source\GO\GolangToSharp\CSharp\GolangInSharp\GolangInSharp\obj\Debug\GolangInSharp.exe
+C:\Users\intruder\source\GO\GolangToSharp\CSharp\GolangInSharp\GolangInSharp\obj\Debug\GolangInSharp.pdb
